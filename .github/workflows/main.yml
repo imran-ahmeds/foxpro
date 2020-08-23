@@ -40,4 +40,4 @@ jobs:
       run: npm install -g surge
       
     - name: deploying on surge
-      run: surge ./build http://remarkable-demoapp.surge.sh/ --token ${secrets.DEM_TOKEN}
+      run: surge ./build http://foxpro_working.surge.sh/ --token ${secrets.DEM_TOKEN}
