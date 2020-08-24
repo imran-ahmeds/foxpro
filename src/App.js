@@ -4,7 +4,7 @@ import Self from './self'
 function App() {
   return (
     <div className="App">
-     <Self lanName="React"/>
+     <Self langName="React"/>
     </div>
   );
 }
